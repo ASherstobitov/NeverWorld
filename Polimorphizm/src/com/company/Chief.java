@@ -2,6 +2,7 @@ package com.company;
 
 public class Chief extends Worker {
     private int percent;
+    private int a;
 
     @Override
     public double getSalary() {
